@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.list
+App_Data/TEMP/DistCache/WIN02-LUVGROUP/LMW3SVC77ROOT-lastsynced.txt
+App_Data/TEMP/DistCache/WIN02-LUVGROUP/LMW3SVC77ROOT-lastsynced.txt
+App_Data/Logs/UmbracoTraceLog.WIN02-LUVGROUP.txt
