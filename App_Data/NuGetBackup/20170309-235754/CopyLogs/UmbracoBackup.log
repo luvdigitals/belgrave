@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, March 9, 2017 11:57:54 PM
+   Source : C:\Users\Narender\Desktop\LuvDigitals\belgrave\Umbraco\
+     Dest : C:\Users\Narender\Desktop\LuvDigitals\belgrave\App_Data\NuGetBackup\20170309-235754\Umbraco\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\Narender\Desktop\LuvDigitals\belgrave\Umbraco\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Thursday, March 9, 2017 11:57:54 PM
+
